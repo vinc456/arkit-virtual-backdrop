@@ -10,4 +10,4 @@ The depth distance to include behind the user's face is a work in progress, but 
 Issues to be resolved/investigated further:
 
 - Border around head and body is noisy
-- Depth images are not recieved consistently
+- Depth images are not received consistently
